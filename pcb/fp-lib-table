@@ -1,0 +1,10 @@
+(fp_lib_table
+  (lib (name "Switch_Keyboard_Kailh")(type "KiCad")(uri "${KIPRJMOD}/resources/keyswitch-kicad-library/footprints/Switch_Keyboard_Kailh.pretty")(options "")(descr ""))
+  (lib (name "Switch_Keyboard_Cherry_MX")(type "KiCad")(uri "${KIPRJMOD}/resources/keyswitch-kicad-library/footprints/Switch_Keyboard_Cherry_MX.pretty")(options "")(descr ""))
+  (lib (name "Mounting_Keyboard_Stabilizer")(type "KiCad")(uri "${KIPRJMOD}/resources/keyswitch-kicad-library/footprints/Mounting_Keyboard_Stabilizer.pretty")(options "")(descr ""))
+  (lib (name "Switch_Keyboard_Hybrid")(type "KiCad")(uri "${KIPRJMOD}/resources/keyswitch-kicad-library/footprints/Switch_Keyboard_Hybrid.pretty")(options "")(descr ""))
+  (lib (name "Switch_Keyboard_Alps_Matias")(type "KiCad")(uri "${KIPRJMOD}/resources/keyswitch-kicad-library/footprints/Switch_Keyboard_Alps_Matias.pretty")(options "")(descr ""))
+  (lib (name "Switch_Keyboard_Hotswap_Kailh")(type "KiCad")(uri "${KIPRJMOD}/resources/keyswitch-kicad-library/footprints/Switch_Keyboard_Hotswap_Kailh.pretty")(options "")(descr ""))
+  (lib (name "promicro")(type "KiCad")(uri "${KIPRJMOD}/resources/ProMicroKiCad/promicro.pretty")(options "")(descr ""))
+  (lib (name "Arduino")(type "KiCad")(uri "${KIPRJMOD}/resources/Arduino.pretty")(options "")(descr ""))
+)

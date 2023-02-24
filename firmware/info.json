@@ -3,8 +3,11 @@
     "manufacturer": "Linhx",
     "url": "https://github.com/linhx/lmacro6",
     "maintainer": "linhx",
+    "features": {
+        "encoder": true
+    },
     "usb": {
-        "vid": "0xF00D",
+        "vid": "0x6C6E",
         "pid": "0x0000",
         "device_version": "0.0.1"
     },

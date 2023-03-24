@@ -10,13 +10,15 @@ See the [build environment setup](https://docs.qmk.fm/#/getting_started_build_to
 
 ## Default layout
 
-| KC_F20     |              | KC_MUTE          |
-| LSA(KC_UP) | LSA(KC_DOWN) | LCTL(LSFT(KC_K)) |
-| LGUI(KC_L) | LSA(KC_F)    | LCA(KC_T)        |
+```plaintext
+| F20            |            | Mute        |
+| Ctrl + F12     | Alt + Left | Alt + Right |
+| Ctrl + Alt + T |            |             |
 
-* Left rotary encoder: Page up/down
+* Left rotary encoder: Switch layer
 * Right rotary encoder: Volume up/down
+```
 
-### useful macros (config via VIA):
+### useful macros (config via VIA)
 
-* Open terminal in a directory: {KC_F10}{500}{KC_LALT,KC_E}
+* Open terminal in a directory (Nautilus Ubuntu): {KC_F10}{500}{KC_LALT,KC_E}
